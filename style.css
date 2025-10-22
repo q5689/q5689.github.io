@@ -1,0 +1,27 @@
+p{
+color:lightslategray;
+font-size: 29pt;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body{
+background-color:wheat;
+background-image: url(tlo.png) ;
+}
+
+
+
+img{
+width: 320px;
+border: 6px;
+border-style: solid;
+}
+
+
+div{
+background-color: black;
+padding:20pt
+
+}
+
+
